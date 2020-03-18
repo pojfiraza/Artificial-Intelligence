@@ -1,0 +1,6 @@
+NOT soup OR NOT wine
+NOT soup AND wine
+cake OR soup
+NOT beef OR ice-cream
+beer AND salad
+fish OR ice-cream
